@@ -33,3 +33,13 @@ Tuesday | Thursday | Project Milestone | HW
 1/9: Deep Learning | 1/11: Machine Learning Group Challenge |
 1/16: Deep Learning | 1/18: Final Project Presentations | Final Project due|
 
+### Installation and Setup
+* Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
+* Setup a [conda virtual environment](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
+* Install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and create a [GitHub](https://github.com/) account.
+* Once you receive an email invitation from [Slack](https://slack.com/), join our "SFDAT28 team" and add your photo!
+
+### Resources
+* [PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
+* [Learn How to Think Like a Computer Scientist](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c)
+* Potential book for course? [:)](https://www.amazon.com/Principles-Data-Science-Sinan-Ozdemir-ebook/dp/B01A8T8YNC)
