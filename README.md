@@ -22,13 +22,13 @@ Tuesday | Thursday | Project Milestone | HW
 --- | --- | --- | ---
 10/31: Introduction / Expectations / Intro to Data Science | 11/2: Numpy & Pandas Part 1
 11/7: Pandas / Plotting | 11/9: Data Cleaning / Munging / Wrangling & Exploratory Data Analyis | | HW 1 Assigned (Th)
-11/14: Introduction to Machine Learning & KNN | 11/16: Machine Learning Topics: Cross Validation & Feature Engineering | Three Potential Project Ideas (Th) | 
-10/25: Natural Language Processing | 10/27: NLP continued  ||HW 1 Due (Th)
-11/1: Naive Bayes Classification | 11/3: Advanced Sklearn (Pipeline and Feaure Unions) / Review || 
-11/8: Decision Trees  | 11/10: Ensembling Techniques | |HW 2 Assigned (Th)
-11/15: Dimension Reduction | 11/17: Clustering / Topic Modelling | First Draft Due (Th) | 
-11/22: Stochastic Gradient Descent | 11/23: No Class | Peer Review Due (T)
-11/29: Neural Networks / Deep Learning | 12/1: Recommendation Engines ||HW 2 Due (Th)
-| 12/6: Web Development with Flask | 12/8: Projects |
+11/14: Introduction to Machine Learning & KNN | 11/16: Machine Learning Topics: Cross Validation & Feature Engineering | Two/three Potential Project Ideas (Th) | 
+11/21: Decision Trees | 11/23: No class Thanksgiving  ||HW 1 Due (Th)
+11/28: Logistic Regression | 11/30: Linear Regression / Review || 
+12/5: Regression 2: Ridge, lasso, regularization  | 12/7: Random Forest/Gradient Boosting/XGBoost | |HW 2 Assigned (Th)
+12/12: Advanced Sklearn: Grid Searhc, Pipelines, & Feature Unions | 12/14: Naive Bayes & Support Vector Machines | First Draft Due (Th) | 
+12/19: Clustering | 12/21: Dimensionality Reduction | Peer Review Due (T)
+12/26: No class holiday break | 12/28: No clas holiday break ||HW 2 Due (Th)|
+1/2: Natural Language Processing Part 1 | 1/4: Natural Language Processing Part 1 |
 12/13: Projects |  | |
 
