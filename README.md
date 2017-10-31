@@ -22,8 +22,8 @@ Tuesday | Thursday | Project Milestone | HW
 --- | --- | --- | ---
 10/31: Introduction / Expectations / Intro to Data Science | 11/2: Numpy & Pandas Part 1
 11/7: Pandas / Plotting | 11/9: Data Cleaning / Munging / Wrangling & Exploratory Data Analyis | | HW 1 Assigned (Th)
-11/14: Introduction to Machine Learning & KNN | 11/16: Machine Learning Topics: Cross Validation & Feature Engineering ||HW 1 Due (Th) 
-11/21: Decision Trees | 11/23: No class Thanksgiving  ||
+11/14: Introduction to Machine Learning & Decision Trees | 11/16: Machine Learning Topics: Cross Validation & Feature Engineering ||HW 1 Due (Th) 
+11/21: K-Nearest Neighbors | 11/23: No class Thanksgiving  ||
 11/28: Logistic Regression | 11/30: Linear Regression / Review || 
 12/5: Regression 2: Ridge, lasso, regularization  | 12/7: Random Forest/Gradient Boosting/XGBoost | Project Proposal due|HW 2 Assigned (Th)
 12/12: Advanced Sklearn: Grid Searhc, Pipelines, & Feature Unions | 12/14: Naive Bayes & Support Vector Machines | | HW 2 Due (Th) 
